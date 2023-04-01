@@ -167,7 +167,7 @@
     <junit-version>4.13.1</junit-version>
     <logback-version>1.2.9</logback-version>
     <servlet-api-version>2.5</servlet-api-version>
-    <cxf-version>3.2.1</cxf-version>
+    <cxf-version>3.4.10</cxf-version>
     <jackson-jaxrs-version>2.9.1</jackson-jaxrs-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
