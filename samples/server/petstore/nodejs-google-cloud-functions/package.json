@@ -9,7 +9,7 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "js-yaml": "^3.3.0",
+    "js-yaml": "^4.1.1",
     "swagger-tools": "0.10.1"
   }
 }
