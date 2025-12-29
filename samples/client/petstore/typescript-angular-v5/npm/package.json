@@ -24,7 +24,7 @@
     "@angular/compiler-cli": "^5.0.0",
     "@angular/core": "^5.0.0",
     "@angular/http": "^5.0.0",
-    "@angular/common": "^5.0.0",
+    "@angular/common": "^19.2.16",
     "@angular/compiler": "^5.0.0",
     "@angular/platform-browser": "^5.0.0",
     "ng-packagr": "^2.4.1",
