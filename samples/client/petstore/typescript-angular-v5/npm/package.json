@@ -22,10 +22,10 @@
   },
   "devDependencies": {
     "@angular/compiler-cli": "^5.0.0",
-    "@angular/core": "^5.0.0",
+    "@angular/core": "^19.2.18",
     "@angular/http": "^5.0.0",
     "@angular/common": "^5.0.0",
-    "@angular/compiler": "^5.0.0",
+    "@angular/compiler": "^19.2.18",
     "@angular/platform-browser": "^5.0.0",
     "ng-packagr": "^2.4.1",
     "reflect-metadata": "^0.1.3",
