@@ -12,8 +12,8 @@
   "author": "Swagger Codegen Contributors & Mads M. Tandrup",
   "license": "Unlicense",
   "dependencies": {
-    "request": "^2.60.0",
-    "angular": "^1.4.3"
+    "request": "^2.88.2",
+    "angular": "^1.8.3"
   },
   "devDependencies": {
     "tsd": "^0.6.3",
