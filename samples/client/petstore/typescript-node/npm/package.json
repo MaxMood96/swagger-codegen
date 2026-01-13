@@ -21,7 +21,7 @@
     },
     "devDependencies": {
         "typescript": "^2.4.2",
-        "minimist": "^1.2.5"
+        "minimist": "^1.2.6"
     },
     "publishConfig": {
         "registry": "https://skimdb.npmjs.com/registry"
