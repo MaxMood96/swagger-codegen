@@ -1,0 +1,52 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.21.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:extend:20180424':
+    - ng-packagr > gulp-inline-ng2-template > extend:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > less > request > extend:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > request > extend:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > vinyl-fs > glob-stream > extend:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > extend:
+        patched: '2021-08-18T07:23:20.383Z'
+  'npm:hoek:20180212':
+    - ng-packagr > node-sass > request > hawk > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > request > hawk > boom > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > request > hawk > sntp > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > hawk > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > request > hawk > cryptiles > boom > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > hawk > boom > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > hawk > sntp > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2021-08-18T07:23:20.383Z'
+  SNYK-JS-LODASH-567746:
+    - ng-packagr > lodash:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > gulp-inline-ng2-template > async > lodash:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > sass-graph > lodash:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > gaze > globule > lodash:
+        patched: '2021-08-18T07:23:20.383Z'
+  'npm:stringstream:20180511':
+    - ng-packagr > less > request > stringstream:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > request > stringstream:
+        patched: '2021-08-18T07:23:20.383Z'
+    - ng-packagr > node-sass > node-gyp > request > stringstream:
+        patched: '2021-08-18T07:23:20.383Z'
+  'npm:tunnel-agent:20170305':
+    - ng-packagr > node-sass > request > tunnel-agent:
+        patched: '2021-08-18T07:23:20.383Z'
