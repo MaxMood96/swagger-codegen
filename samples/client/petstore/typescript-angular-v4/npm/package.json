@@ -8,7 +8,9 @@
   ],
   "license": "Unlicense",
   "scripts": {
-    "build": "ng-packagr -p ng-package.json"
+    "build": "ng-packagr -p ng-package.json",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "peerDependencies": {
     "@angular/core": "^4.0.0",
@@ -35,5 +37,9 @@
   },
   "publishConfig": {
     "registry": "https://skimdb.npmjs.com/registry"
+  },
+  "snyk": true,
+  "dependencies": {
+    "@snyk/protect": "latest"
   }
 }
