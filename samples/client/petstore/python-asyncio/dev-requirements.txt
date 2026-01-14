@@ -2,3 +2,4 @@ tox
 coverage
 randomize
 flake8
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
