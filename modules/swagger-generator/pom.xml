@@ -346,6 +346,6 @@
         <servlet-api-version>2.5</servlet-api-version>
         <zip-version>2.11.5</zip-version>
         <jetty-version>9.4.53.v20231009</jetty-version>
-        <jersey2-version>2.42</jersey2-version>
+        <jersey2-version>2.46</jersey2-version>
     </properties>
 </project>
