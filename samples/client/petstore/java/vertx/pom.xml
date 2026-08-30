@@ -260,7 +260,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <vertx-version>3.4.2</vertx-version>
+        <vertx-version>4.5.21</vertx-version>
         <swagger-core-version>1.5.24</swagger-core-version>
         <threetenbp-version>2.6.4</threetenbp-version>
         <jackson-version>2.11.4</jackson-version>
